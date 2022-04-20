@@ -1,0 +1,6 @@
+env
+*.pyc
+*.pyo
+*.csv
+*.pdf
+*/.DS_Store
